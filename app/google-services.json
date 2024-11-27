@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434719180842",
+    "project_id": "bd-taller2",
+    "storage_bucket": "bd-taller2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434719180842:android:94eacc8e237dd1796e5b53",
+        "android_client_info": {
+          "package_name": "com.example.serpientesyescaleras"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3cDlo3epGiMmEAZcggc17orQzoxnEroA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
